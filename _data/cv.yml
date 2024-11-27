@@ -16,19 +16,19 @@
       institution: Tokyo Metropolitan University, Tokyo, Japan
       year: Expected September 2025
       description:
-        - *Research Focus:* Leveraging deep learning techniques to assess user experience (UX) in virtual reality (VR) environments, with an emphasis on multimodal behavioral cues.
+        - *Research Focus:*" Leveraging deep learning techniques to assess user experience (UX) in virtual reality (VR) environments, with an emphasis on multimodal behavioral cues.
 
     - title: M.E. in Electrical Engineering
       institution: King Mongkut's University of Technology Thonburi (KMUTT), Bangkok, Thailand
       year: 2022
       description:
-        - *Research Focus:* Application of deep learning for fingerspelling recognition in real-world continuous video settings with dynamic conditions.
+        - *Research Focus:*" Application of deep learning for fingerspelling recognition in real-world continuous video settings with dynamic conditions.
 
     - title: B.E. in Electronics and Telecommunication
       institution: King Mongkut's University of Technology Thonburi (KMUTT), Bangkok, Thailand
       year: 2019
       description:
-        - *Research Focus:* Sentiment analysis of Thai restaurant reviews using machine learning and deep learning approaches.
+        - *Research Focus:*" Sentiment analysis of Thai restaurant reviews using machine learning and deep learning approaches.
 
 - title: Research Experience
   type: time_table
@@ -64,6 +64,6 @@
 - title: Skills
   type: list
   contents:
-    - *Programming Languages:* Python, C\# (basic proficiency)
-    - *Tools and Frameworks:* PyTorch, Unity, OpenCV, OpenXR  
-    - *Research Expertise:* Deep Learning, Machine Learning, Virtual Reality Development  
+    - *Programming Languages:*" Python, C\# (basic proficiency)
+    - *Tools and Frameworks:*" PyTorch, Unity, OpenCV, OpenXR  
+    - *Research Expertise:*" Deep Learning, Machine Learning, Virtual Reality Development  
