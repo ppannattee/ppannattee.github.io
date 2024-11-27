@@ -5,9 +5,6 @@
       value: Peerawat Pannattee
     - name: Languages
       value: Thai, English
-    - name: Career Objective
-      value: A passionate and innovative researcher with a strong foundation in deep learning and its applications in human behavior and psychology. Currently pursuing a Ph.D. at Tokyo Metropolitan University, I specialize in the use of artificial intelligence to assess user experience (UX) in virtual reality (VR) environments, focusing on factors such as cybersickness, presence, and emotional state. My goal is to advance the understanding of human cognition and behavior through VR technologies and AI, while contributing to the development of cutting-edge solutions in human-computer interaction.
-    
 
 - title: Education
   type: time_table
@@ -16,19 +13,19 @@
       institution: Tokyo Metropolitan University, Tokyo, Japan
       year: Expected September 2025
       description:
-        - <u>Research Focus:<\u> Leveraging deep learning techniques to assess user experience (UX) in virtual reality (VR) environments, with an emphasis on multimodal behavioral cues.
+        - '<i>Research Focus:<\i> Leveraging deep learning techniques to assess user experience (UX) in virtual reality (VR) environments, with an emphasis on multimodal behavioral cues.'
 
     - title: M.E. in Electrical Engineering
       institution: King Mongkut's University of Technology Thonburi (KMUTT), Bangkok, Thailand
       year: 2022
       description:
-        - <u>Research Focus:<\u> Application of deep learning for fingerspelling recognition in real-world continuous video settings with dynamic conditions.
+        - '<i>Research Focus:<\i> Application of deep learning for fingerspelling recognition in real-world continuous video settings with dynamic conditions.'
 
     - title: B.E. in Electronics and Telecommunication
       institution: King Mongkut's University of Technology Thonburi (KMUTT), Bangkok, Thailand
       year: 2019
       description:
-        - <u>Research Focus:<\u> Sentiment analysis of Thai restaurant reviews using machine learning and deep learning approaches.
+        - '<i>Research Focus:<\i> Sentiment analysis of Thai restaurant reviews using machine learning and deep learning approaches.'
 
 - title: Research Experience
   type: time_table
@@ -64,6 +61,6 @@
 - title: Skills
   type: list
   contents:
-    - <u>Programming Languages:<\u> Python, C\# (basic proficiency)
-    - <u>Tools and Frameworks:<\u> PyTorch, Unity, OpenCV, OpenXR  
-    - <u>Research Expertise:<\u> Deep Learning, Machine Learning, Virtual Reality Development  
+    - '<i>Programming Languages:<\i> Python, C\# (basic proficiency)'
+    - '<i>Tools and Frameworks:<\i> PyTorch, Unity, OpenCV, OpenXR'  
+    - '<i>Research Expertise:<\i> Deep Learning, Machine Learning, Virtual Reality Development' 
