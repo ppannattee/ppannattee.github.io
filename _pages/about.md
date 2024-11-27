@@ -14,12 +14,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student at Tokyo Metropolitan University, specializing in deep learning techniques to assess user experience (UX) in virtual reality (VR). My research focuses on using AI to analyze user interactions and responses in VR environments, with a particular emphasis on cybersickness, sense of presence, and emotional states. By applying AI to these areas, I aim to enhance how users interact with immersive technologies and improve the overall experience.
+I am a Ph.D. candidate at Tokyo Metropolitan University, specializing in deep learning and machine learning for assessing user experience (UX) in virtual reality (VR). My research focuses on leveraging AI to analyze user behavior and responses in immersive environments, with an emphasis on factors such as cybersickness, presence, and emotional states. By developing AI-driven frameworks, I aim to enhance user interaction with VR technologies and improve the overall immersive experience.
 
-I completed my M.E. in Electrical Engineering at KMUTT, Thailand, where my Master's research focused on fingerspelling recognition in challenging video settings, including variations in background, frame rate, and signer characteristics. My method achieved state-of-the-art results, significantly deepening my understanding of deep learning and its applications in real-world problems.
+I earned my M.E. in Electrical Engineering from King Mongkut’s University of Technology Thonburi (KMUTT), Thailand, where I conducted research on fingerspelling recognition in real-world, dynamic video settings. My work involved designing a tailored deep learning architecture and achieving state-of-the-art results on large-scale datasets, deepening my expertise in AI applications for real-world challenges.
 
-Currently, my research is centered on understanding human behavior and cognitive responses in VR, exploring how AI can help study and improve how we interact with virtual environments. This work contributes to the broader field of human-computer interaction (HCI), where technology is used to analyze and enhance user experience.
+Currently, my research explores how AI can assess and enhance subjective experiences in VR, contributing to the broader field of human-computer interaction (HCI). I am particularly interested in how immersive technologies can provide valuable insights into human cognition and behavior, with applications that extend beyond VR to user-centric technology design.
 
-Outside of my academic work, I am passionate about exploring new AI applications, especially those that can advance our understanding of the mind and improve user-centric technology design.
-
-If you're interested in learning more about my research or collaborating on projects, please feel free to get in touch!
+I am always excited to collaborate on innovative projects that push the boundaries of AI and immersive technologies. Feel free to reach out if you'd like to learn more about my work or explore potential collaborations!
