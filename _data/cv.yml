@@ -13,19 +13,19 @@
       institution: Tokyo Metropolitan University, Tokyo, Japan
       year: Expected September 2025
       description:
-        - '<i>Research Focus:<\i> Leveraging deep learning techniques to assess user experience (UX) in virtual reality (VR) environments, with an emphasis on multimodal behavioral cues.'
+        - <i>Research Focus:</i> Leveraging deep learning techniques to assess user experience (UX) in virtual reality (VR) environments, with an emphasis on multimodal behavioral cues.
 
     - title: M.E. in Electrical Engineering
       institution: King Mongkut's University of Technology Thonburi (KMUTT), Bangkok, Thailand
       year: 2022
       description:
-        - '<i>Research Focus:<\i> Application of deep learning for fingerspelling recognition in real-world continuous video settings with dynamic conditions.'
+        - <i>Research Focus:</i> Application of deep learning for fingerspelling recognition in real-world continuous video settings with dynamic conditions.
 
     - title: B.E. in Electronics and Telecommunication
       institution: King Mongkut's University of Technology Thonburi (KMUTT), Bangkok, Thailand
       year: 2019
       description:
-        - '<i>Research Focus:<\i> Sentiment analysis of Thai restaurant reviews using machine learning and deep learning approaches.'
+        - <i>Research Focus:</i> Sentiment analysis of Thai restaurant reviews using machine learning and deep learning approaches.
 
 - title: Research Experience
   type: time_table
@@ -53,14 +53,14 @@
   contents:
     - year: 2024
       items:
-        - Best Paper Award, 8th International Conference on Artificial Intelligence and Virtual Reality (AIVR), 2024
+        - <i>Best Paper Award</i>, 8th International Conference on Artificial Intelligence and Virtual Reality (AIVR), 2024
     - year: 2022-Present
       items:
-        - MEXT Scholarship, Awarded by the Japanese Government for Ph.D. studies  
+        - <i>MEXT Scholarship</i>, Awarded by the Japanese Government for Ph.D. studies  
 
 - title: Skills
   type: list
   contents:
-    - '<i>Programming Languages:<\i> Python, C\# (basic proficiency)'
-    - '<i>Tools and Frameworks:<\i> PyTorch, Unity, OpenCV, OpenXR'  
-    - '<i>Research Expertise:<\i> Deep Learning, Machine Learning, Virtual Reality Development' 
+    - <i>Programming Languages:</i> Python, C\# (basic proficiency)
+    - <i>Tools and Frameworks:</i> PyTorch, Unity, OpenCV, OpenXR
+    - <i>Research Expertise:</i> Deep Learning, Machine Learning, Virtual Reality Development
