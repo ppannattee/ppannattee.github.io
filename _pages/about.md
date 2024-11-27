@@ -8,14 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D. student at Tokyo Metropolitan University, specializing in deep learning techniques to assess user experience (UX) in virtual reality (VR). My research focuses on using AI to analyze user interactions and responses in VR environments, with a particular emphasis on cybersickness, sense of presence, and emotional states. By applying AI to these areas, I aim to enhance how users interact with immersive technologies and improve the overall experience.
