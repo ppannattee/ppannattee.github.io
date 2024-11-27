@@ -14,10 +14,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate at Tokyo Metropolitan University, specializing in deep learning and machine learning for assessing user experience (UX) in virtual reality (VR). My research focuses on leveraging AI to analyze user behavior and responses in immersive environments, with an emphasis on factors such as cybersickness, presence, and emotional states. By developing AI-driven frameworks, I aim to enhance user interaction with VR technologies and improve the overall immersive experience.
+I am a Ph.D. student at Tokyo Metropolitan University, specializing in deep learning and virtual reality (VR). My research leverages AI to analyze user experience (UX) in VR, with a focus on factors like cybersickness, presence, and emotional states, aiming to improve user interaction with immersive technologies.
 
-I earned my M.E. in Electrical Engineering from King Mongkut’s University of Technology Thonburi (KMUTT), Thailand, where I conducted research on fingerspelling recognition in real-world, dynamic video settings. My work involved designing a tailored deep learning architecture and achieving state-of-the-art results on large-scale datasets, deepening my expertise in AI applications for real-world challenges.
+I hold an M.E. in Electrical Engineering from KMUTT, where I developed state-of-the-art methods for fingerspelling recognition in dynamic, real-world video settings, further honing my expertise in AI applications to address complex, real-world challenges.
 
-Currently, my research explores how AI can assess and enhance subjective experiences in VR, contributing to the broader field of human-computer interaction (HCI). I am particularly interested in how immersive technologies can provide valuable insights into human cognition and behavior, with applications that extend beyond VR to user-centric technology design.
+My goal is to advance the understanding of human cognition and behavior through VR and AI, contributing to the development of innovative solutions in human-computer interaction.
 
-I am always excited to collaborate on innovative projects that push the boundaries of AI and immersive technologies. Feel free to reach out if you'd like to learn more about my work or explore potential collaborations!
+Feel free to contact me for further details or potential collaborations.
