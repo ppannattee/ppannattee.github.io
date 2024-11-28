@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. student at <a href='#'>Tokyo Metropolitan University</a>.
+subtitle: Ph.D. student at [Nishiuchi Laboratory](https://cs.sd.tmu.ac.jp/en/staff_nishiuchi.html), [Tokyo Metropolitan University](https://www.tmu.ac.jp/english/index.html).
 
 profile:
   align: right
@@ -14,10 +14,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student at Tokyo Metropolitan University, specializing in deep learning and virtual reality (VR). My research uses AI to analyze user experience (UX) in VR, focusing on factors such as cybersickness, presence, and emotional states, with the aim of improving user interaction with immersive technologies.
+Hi, I'm Peerawat, but I also go by TK. I am currently pursuing a Ph.D. at [Tokyo Metropolitan University](https://www.tmu.ac.jp/english/index.html), specializing in deep learning and virtual reality (VR). My research focuses on leveraging AI to analyze user experience (UX) in VR, with an emphasis on factors such as cybersickness, presence, and emotional states. The goal is to enhance user interaction with immersive technologies and improve the overall VR experience.
 
-I hold an M.E. in Electrical Engineering from KMUTT, where I developed advanced methods for fingerspelling recognition in dynamic, real-world video environments, strengthening my expertise in AI applications for complex, real-world problems.
+I hold a Master's degree in Electrical Engineering from [KMUTT](https://www.kmutt.ac.th/en/), where I developed advanced methods for fingerspelling recognition in dynamic, [real-world video environments](https://home.ttic.edu/~klivescu/ChicagoFSWild.htm). This work strengthened my expertise in applying AI to solve complex, real-world problems.
 
-My goal is to leverage VR and AI to deepen our understanding of human cognition and behavior, exploring how these technologies can unlock new insights into the mind and human experience.
+I am passionate about using VR and AI to explore human cognition and behavior, aiming to unlock new insights into the mind and human experience.
 
-Feel free to reach out for further information.
+Feel free to reach out for more information.
