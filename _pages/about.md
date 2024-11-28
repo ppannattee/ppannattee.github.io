@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. student at [Nishiuchi Laboratory](https://cs.sd.tmu.ac.jp/en/staff_nishiuchi.html), [Tokyo Metropolitan University](https://www.tmu.ac.jp/english/index.html).
+subtitle: Ph.D. student at <a href="https://cs.sd.tmu.ac.jp/en/staff_nishiuchi.html">Nishiuchi Laboratory</a>, <a href="https://www.tmu.ac.jp/english/index.html">Tokyo Metropolitan University</a>.
 
 profile:
   align: right
