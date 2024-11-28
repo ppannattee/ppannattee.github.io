@@ -13,7 +13,7 @@
       institution: Tokyo Metropolitan University, Tokyo, Japan
       year: Expected<br>September<br>2025
       description:
-        - <i>Research Focus:</i> Leveraging deep learning techniques to assess user experience (UX) in virtual reality (VR) environments, with an emphasis on multimodal behavioral cues.
+        - <i>Research Focus:</i> Leveraging deep learning techniques to assess UX in VR environments, with an emphasis on multimodal behavioral cues.
 
     - title: M.E. in Electrical Engineering
       institution: King Mongkut's University of Technology Thonburi (KMUTT), Bangkok, Thailand
@@ -35,7 +35,7 @@
       year: 2022 - Present
       description:
         - Designed and conducted research experiments under the supervision of Prof. Nobuyuki Nishiuchi.  
-        - Investigated factors influencing user experience (UX) in virtual reality (VR), with a focus on elements such as cybersickness, presence, and emotional states.
+        - Investigated factors influencing UX in VR, with a focus on elements such as cybersickness, presence, and emotional states.
         - Developed VR simulations to facilitate research experiments and collect behavioral data for analysis.
         - Designed and implemented an automated framework for UX assessment in VR, utilizing deep learning and machine learning techniques.
         - Participated in research discussions and contributed to the writing of reports and research papers.
@@ -53,14 +53,14 @@
   contents:
     - year: 2024
       items:
-        - <i>Best Paper Award</i>, 8th International Conference on Artificial Intelligence and Virtual Reality (AIVR), 2024
+        - <b>Best Paper Award</b>, 8th International Conference on Artificial Intelligence and Virtual Reality (AIVR), 2024
     - year: 2022-Present
       items:
-        - <i>MEXT Scholarship</i>, Awarded by the Japanese Government for Ph.D. studies  
+        - <b>MEXT Scholarship</b>, Awarded by the Japanese Government for Ph.D. studies  
 
 - title: Skills
   type: list
   contents:
-    - <i>Programming Languages:</i> Python, C# (basic proficiency)
-    - <i>Tools and Frameworks:</i> PyTorch, Unity, OpenCV, OpenXR
-    - <i>Research Expertise:</i> Deep Learning, Machine Learning, Virtual Reality Development
+    - <b>Programming Languages:</b> Python, C# (basic proficiency)
+    - <b>Tools and Frameworks:</b> PyTorch, Unity, OpenCV, OpenXR
+    - <b>Research Expertise:</b> Deep Learning, Machine Learning, Virtual Reality Development
