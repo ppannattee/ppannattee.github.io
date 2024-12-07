@@ -18,6 +18,6 @@ Hi, I'm Peerawat, but I also go by TK. I am currently pursuing a Ph.D. at [Tokyo
 
 I hold a Master's degree in Electrical Engineering from [KMUTT](https://www.kmutt.ac.th/en/), where I developed advanced methods for fingerspelling recognition in dynamic, [real-world video environments](https://home.ttic.edu/~klivescu/ChicagoFSWild.htm). This work strengthened my expertise in applying AI to solve complex, real-world problems.
 
-I am passionate about using VR and AI to explore human cognition and behavior, aiming to unlock new insights into the mind and human experience.
+Beyond my current research, I am passionate about using VR and AI to advance the understanding of human cognition and behavior. I am also eager to explore how AI can drive innovation across various domains, solving diverse challenges and unlocking new possibilities in both research and practical applications.
 
 Feel free to reach out for more information.
