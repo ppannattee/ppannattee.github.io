@@ -34,19 +34,19 @@
       institution: Nishiuchi Laboratory, Tokyo Metropolitan University, Tokyo, Japan
       year: 2022 - Present
       description:
-        - Designed and conducted research experiments under the supervision of Prof. Nobuyuki Nishiuchi.  
+        - Designed and conducted research experiments under the supervision of Prof. Nobuyuki Nishiuchi.
         - Investigated factors influencing UX in VR, with a focus on elements such as cybersickness, presence, and emotional states.
         - Developed VR simulations to facilitate research experiments and collect behavioral data for analysis.
         - Designed and implemented an automated framework for UX assessment in VR, utilizing deep learning and machine learning techniques.
-        - Participated in research discussions and contributed to the writing of reports and research papers.
+        - Actively contributed to research discussions, co-authoring reports and papers for academic publication.
         
     - title: Research Assistant
       institution: Deep Learning Research Laboratory, KMUTT (in collaboration with NECTEC), Bangkok, Thailand
       year: 2020-2022
       description:
-        - Developed deep learning algorithms for fingerspelling recognition in dynamic, real-world video settings.  
-        - Conducted experiments and engaged in research discussions under the guidance of Prof. Wuttipong Kumwilaisak.  
+        - Developed a state-of-the-art deep learning-based method for fingerspelling recognition in dynamic, real-world video settings, achieving significant recognition accuracy (under the guidance of Prof. Wuttipong Kumwilaisak).
         - Contributed to the preparation of reports and research publications.
+        - Awarded the National Research, Award by the National Research Council of Thailand for the contribution to the field.
 
 - title: Awards
   type: time_table
@@ -54,9 +54,12 @@
     - year: 2024
       items:
         - <b>Best Paper Award</b>, 8th International Conference on Artificial Intelligence and Virtual Reality (AIVR), 2024
+    - year: 2024
+      items:
+        - <b>National Research Award<b>, Awarded by the National Research Council of Thailand for contributions to the field of Thai sign language technology, 2024.
     - year: 2022-Present
       items:
-        - <b>MEXT Scholarship</b>, Awarded by the Japanese Government for Ph.D. studies  
+        - <b>MEXT Scholarship</b>, Awarded by the Japanese Government for Ph.D. studies
 
 - title: Skills
   type: list
