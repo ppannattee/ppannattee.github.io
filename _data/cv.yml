@@ -34,7 +34,6 @@
       institution: Nishiuchi Laboratory, Tokyo Metropolitan University, Tokyo, Japan
       year: 2022 - Present
       description:
-        - Designed and conducted research experiments under the supervision of Prof. Nobuyuki Nishiuchi.
         - Investigated factors influencing UX in VR, with a focus on elements such as cybersickness, presence, and emotional states.
         - Developed VR simulations to facilitate research experiments and collect behavioral data for analysis.
         - Designed and implemented an automated framework for UX assessment in VR, utilizing deep learning and machine learning techniques.
@@ -44,9 +43,8 @@
       institution: Deep Learning Research Laboratory, KMUTT (in collaboration with NECTEC), Bangkok, Thailand
       year: 2020-2022
       description:
-        - Developed a state-of-the-art deep learning-based method for fingerspelling recognition in dynamic, real-world video settings, achieving significant recognition accuracy (under the guidance of Prof. Wuttipong Kumwilaisak).
+        - Developed a state-of-the-art deep learning-based method for fingerspelling recognition in dynamic, real-world video settings, achieving significant recognition accuracy.
         - Contributed to the preparation of reports and research publications.
-        - Awarded the National Research, Award by the National Research Council of Thailand for the contribution to the field.
 
 - title: Awards
   type: time_table
