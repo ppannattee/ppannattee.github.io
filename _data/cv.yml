@@ -36,8 +36,8 @@
 - title: Projects
   type: time_table
   contents:
-    - title: LLM Project Playground [Repo](https://github.com/ppannattee/LLM-Project-Playground/tree/main?tab=readme-ov-file)
-      institution: Tokyo Metropolitan University, Tokyo, Japan
+    - title: LLM Project Playground
+      link: https://github.com/ppannattee/LLM-Project-Playground/tree/main?tab=readme-ov-file
       year: 2025-Present
       description:
         - Curated and implemented a series of hands-on toy projects to explore key aspects of <b>LLMs</b>.
@@ -57,19 +57,19 @@
       institution: Tokyo Metropolitan University, Tokyo, Japan
       year: Expected<br>September<br>2025
       description:
-        - <i>Research Focus:</i> Leveraging deep learning techniques to assess UX in VR environments, with an emphasis on multimodal behavioral cues.
+        - <i>Research:</i> AI-driven UX assessment in VR, focusing on multimodal input of behavioral cues and visual attributes.
 
     - title: M.E. in Electrical Engineering
       institution: King Mongkut's University of Technology Thonburi (KMUTT), Bangkok, Thailand
       year: 2022
       description:
-        - <i>Research Focus:</i> Application of deep learning for fingerspelling recognition in real-world continuous video settings with dynamic conditions.
+        - <i>Research:</i> Deep learning-based fingerspelling recognition in real-world dynamic settings.
 
     - title: B.E. in Electronics and Telecommunication
       institution: King Mongkut's University of Technology Thonburi (KMUTT), Bangkok, Thailand
       year: 2019
       description:
-        - <i>Research Focus:</i> Sentiment analysis of Thai restaurant reviews using machine learning and deep learning approaches.
+        - <i>Senior Project:</i> Sentiment analysis of Thai restaurant reviews using deep learning approaches.
 
 - title: Awards
   type: time_table
