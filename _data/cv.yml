@@ -6,6 +6,50 @@
     - name: Languages
       value: Thai, English
 
+- title: Skills
+  type: list
+  contents:
+    - <b>Programming Languages:</b> Python, C# (basic proficiency)
+    - <b>Tools and Libraries:</b> PyTorch, Hugging Face, OpenCV, Unity, OpenXR
+    - <b>Research Areas:</b> Applications of Artificial Intelligence, User Experience in Virtual Reality
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Ph.D. Research Assistant
+      institution: Nishiuchi Laboratory, Tokyo Metropolitan University, Tokyo, Japan
+      year: 2022 - Present
+      description:
+        - Developed a deep learning framework for <b>UX assessment in VR</b>, focusing on a <b>multimodal framework</b> considering both <b>behavioral cues</b> (e.g., body movements, facial expressions) and <b>objective visual attributes</b> (e.g., visual complexity, motion dynamics
+        - Investigated factors such as <b>cybersickness</b>, <b>presence</b>, and <b>emotional states</b> in VR experiences.
+        - Designed VR simulations for research experiments and behavioral data collection.
+        - Co-authored research papers and actively contributed to academic discussions.
+        
+    - title: Research Assistant
+      institution: Deep Learning Research Laboratory, KMUTT (in collaboration with NECTEC), Bangkok, Thailand
+      year: 2020-2022
+      description:
+        - Developed a deep learning framework for <b>fingerspelling recognition</b> in <b>continuous</b> and <b>real-world video settings</b>.
+        - Applied techniques such as <b>multi-task learning</b> and <b>contrastive learning</b> to enhance recognition accuracy.
+        - Contributed to research reports and co-authored academic publications.
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: LLM Project Playground [Repo](https://github.com/ppannattee/LLM-Project-Playground/tree/main?tab=readme-ov-file)
+      institution: Tokyo Metropolitan University, Tokyo, Japan
+      year: 2025-Present
+      description:
+        - Curated and implemented a series of hands-on toy projects to explore key aspects of <b>LLMs</b>.
+        - Investigated topics such as <b>model architecture</b>, <b>fine-tuning techniques</b>, and <b>dataset preparation</b> for domain-specific tasks.
+        - Documented insights and implementation details to share learnings with the community.
+
+    - title: Undergraduate Senior Project
+      year: 2018-2019
+      description:
+        - Developed a deep learning model for <b>sentiment analysis</b> of Thai restaurant reviews, applying <b>LSTM</b> and <b>word2vec</b> for improved text classification accuracy.
+        - Designed and implemented the complete <b>data preprocessing pipeline</b>, including web scraping, data cleansing, and text normalization.
+
 - title: Education
   type: time_table
   contents:
@@ -27,25 +71,6 @@
       description:
         - <i>Research Focus:</i> Sentiment analysis of Thai restaurant reviews using machine learning and deep learning approaches.
 
-- title: Research Experience
-  type: time_table
-  contents:
-    - title: Ph.D. Research Assistant
-      institution: Nishiuchi Laboratory, Tokyo Metropolitan University, Tokyo, Japan
-      year: 2022 - Present
-      description:
-        - Investigated factors influencing UX in VR, with a focus on elements such as cybersickness, presence, and emotional states.
-        - Developed VR simulations to facilitate research experiments and collect behavioral data for analysis.
-        - Designed and implemented an automated framework for UX assessment in VR, utilizing deep learning and machine learning techniques.
-        - Actively contributed to research discussions, co-authoring reports and papers for academic publication.
-        
-    - title: Research Assistant
-      institution: Deep Learning Research Laboratory, KMUTT (in collaboration with NECTEC), Bangkok, Thailand
-      year: 2020-2022
-      description:
-        - Developed a state-of-the-art deep learning-based method for fingerspelling recognition in dynamic, real-world video settings, achieving significant recognition accuracy.
-        - Contributed to the preparation of reports and research publications.
-
 - title: Awards
   type: time_table
   contents:
@@ -58,10 +83,3 @@
     - year: 2022-Present
       items:
         - <b>MEXT Scholarship</b>, Awarded by the Japanese Government for Ph.D. studies
-
-- title: Skills
-  type: list
-  contents:
-    - <b>Programming Languages:</b> Python, C# (basic proficiency)
-    - <b>Tools and Frameworks:</b> PyTorch, Unity, OpenCV, OpenXR
-    - <b>Research Expertise:</b> Deep Learning, Machine Learning, Virtual Reality Development
