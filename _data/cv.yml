@@ -20,8 +20,8 @@
       institution: Nishiuchi Laboratory, Tokyo Metropolitan University, Tokyo, Japan
       year: 2022 - Present
       description:
-        - Developed a deep learning framework for <b>UX assessment in VR</b>, focusing on a <b>multimodal framework</b> considering both <b>behavioral cues</b> (e.g., body movements, facial expressions) and <b>objective visual attributes</b> (e.g., visual complexity, motion dynamics
-        - Investigated factors such as <b>cybersickness</b>, <b>presence</b>, and <b>emotional states</b> in VR experiences.
+        - Developed a deep learning framework for UX assessment in VR, focusing on a multimodal framework considering both behavioral cues (e.g., body movements, facial expressions) and objective visual attributes (e.g., visual complexity, motion dynamics
+        - Investigated factors such as cybersickness, presence, and emotional states in VR experiences.
         - Designed VR simulations for research experiments and behavioral data collection.
         - Co-authored research papers and actively contributed to academic discussions.
         
@@ -29,8 +29,8 @@
       institution: Deep Learning Research Laboratory, KMUTT (in collaboration with NECTEC), Bangkok, Thailand
       year: 2020-2022
       description:
-        - Developed a deep learning framework for <b>fingerspelling recognition</b> in <b>continuous</b> and <b>real-world video settings</b>.
-        - Applied techniques such as <b>multi-task learning</b> and <b>contrastive learning</b> to enhance recognition accuracy.
+        - Developed a deep learning framework for fingerspelling recognition in continuous and real-world video settings.
+        - Applied techniques such as multi-task learning and contrastive learning to enhance recognition accuracy.
         - Contributed to research reports and co-authored academic publications.
 
 - title: Projects
@@ -40,15 +40,15 @@
       link: https://github.com/ppannattee/LLM-Project-Playground/tree/main?tab=readme-ov-file
       year: 2025-Present
       description:
-        - Curated and implemented a series of hands-on toy projects to explore key aspects of <b>LLMs</b>.
-        - Investigated topics such as <b>model architecture</b>, <b>fine-tuning techniques</b>, and <b>dataset preparation</b> for domain-specific tasks.
+        - Curated and implemented a series of hands-on toy projects to explore key aspects of LLMs.
+        - Investigated topics such as model architecture, fine-tuning techniques, and dataset preparation for domain-specific tasks.
         - Documented insights and implementation details to share learnings with the community.
 
     - title: Undergraduate Senior Project
       year: 2018-2019
       description:
-        - Developed a deep learning model for <b>sentiment analysis</b> of Thai restaurant reviews, applying <b>LSTM</b> and <b>word2vec</b> for improved text classification accuracy.
-        - Designed and implemented the complete <b>data preprocessing pipeline</b>, including web scraping, data cleansing, and text normalization.
+        - Developed a deep learning model for sentiment analysis of Thai restaurant reviews, applying LSTM and word2vec for improved text classification accuracy.
+        - Designed and implemented the complete data preprocessing pipeline, including web scraping, data cleansing, and text normalization.
 
 - title: Education
   type: time_table
