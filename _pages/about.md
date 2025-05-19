@@ -14,10 +14,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I am Peerawat, but I also go by TK. I am currently pursuing a Ph.D. at [Tokyo Metropolitan University](https://www.tmu.ac.jp/english/index.html), specializing in deep learning and virtual reality (VR). My research focuses on leveraging AI to analyze user experience (UX) in VR, with an emphasis on factors such as cybersickness, presence, and emotional states. The goal is to enhance user interaction with immersive technologies and improve the overall VR experience.
+Hi, I am Peerawat, but I also go by TK. I am currently pursuing a Ph.D. at [Tokyo Metropolitan University](https://www.tmu.ac.jp/english/index.html), where my research centers on applying deep learning (DL) to assess user experience (UX) in virtual reality (VR), with an emphasis on factors such as [cybersickness](https://dl.acm.org/doi/pdf/10.1145/3670008), [presence](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.628298/full), and emotional states. The goal is to enhance user interaction with immersive technologies and improve the overall VR experience.
 
-I hold a Master's degree in Electrical Engineering from [KMUTT](https://www.kmutt.ac.th/en/), where I developed advanced methods for fingerspelling recognition in dynamic, [real-world video environments](https://home.ttic.edu/~klivescu/ChicagoFSWild.htm). This work strengthened my expertise in applying AI to solve complex, real-world problems.
+I hold a Master's degree in Electrical Engineering from [KMUTT](https://www.kmutt.ac.th/en/), where I developed advanced methods for continuous fingerspelling recognition in dynamic, [real-world video environments](https://home.ttic.edu/~klivescu/ChicagoFSWild.htm). This work strengthened my expertise in applying AI to solve complex, real-world problems.
 
-Beyond my current research, I am passionate about using VR and AI to advance the understanding of human cognition and behavior. I am also eager to explore how AI can drive innovation across various domains, solving diverse challenges and unlocking new possibilities in both research and practical applications.
+Beyond my current research, I have a personal interest in broader AI applications—especially in vision-language models (VLMs) and large language models (LLMs). I am passionate about leveraging these technologies to solve challenging problems and drive innovation through intelligent, human-centered systems.
 
-Feel free to reach out for more information.
+Feel free to reach out if you'd like to connect or learn more.
