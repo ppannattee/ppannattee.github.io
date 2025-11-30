@@ -1,0 +1,203 @@
+/* Global layout */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  background: #f8f9fb;
+  color: #111;
+}
+
+/* Header */
+.site-header {
+  background: #ffffffcc;
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid #e5e7eb;
+  padding: 14px 0;
+}
+
+.header-inner {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 16px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+
+.site-tagline {
+  margin: 2px 0 0;
+  font-size: 0.9rem;
+  color: #6b7280;
+}
+
+/* Navigation */
+.nav-right {
+  display: flex;
+  gap: 8px;
+}
+
+.nav-link {
+  text-decoration: none;
+  padding: 8px 14px;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  color: #4b5563;
+}
+
+.nav-link:hover {
+  background: #eef2ff;
+  color: #111;
+}
+
+.nav-link.active {
+  background: #2563eb;
+  color: #fff;
+}
+
+/* Main container */
+.main-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 24px 16px;
+}
+
+/* Profile card */
+.profile-card {
+  background: white;
+  padding: 20px 22px;
+  border-radius: 12px;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.05);
+}
+
+/* Centered profile layout */
+.profile-centered {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Profile photo */
+.profile-photo-centered {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 12px;
+  border: 1px solid #d1d5db;
+  margin-bottom: 16px;
+}
+
+/* Title under photo */
+.intro-title,
+section h2 {
+  font-size: 1.3rem;
+  margin-top: 0;
+  margin-bottom: 16px;
+  font-weight: 600;
+}
+
+
+/* Intro paragraphs */
+.intro-indent {
+  text-align: left;
+  margin: 0 0 14px 0;
+  padding: 0;
+  width: 100%;
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+/* Generic section style */
+section {
+  max-width: 800px;
+  margin: 20px auto;
+  background: white;
+  padding: 20px 22px;
+  border-radius: 12px;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.05);
+}
+
+section h2 {
+  margin-top: 0;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  margin: 40px 0 20px;
+  color: #9ca3af;
+  font-size: 0.9rem;
+}
+
+/* Research Interests */
+.interests-list {
+  margin: 0;
+  padding-left: 20px;
+  list-style: disc;
+}
+
+.interests-list li {
+  margin-bottom: 6px;
+  font-size: 0.95rem;
+}
+
+/* Contact List */
+.contact-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.contact-list li,
+.contact-list a,
+.contact-label {
+  font-size: 0.95rem;
+}
+
+.contact-label {
+  font-weight: 600;
+}
+
+/* Mobile responsive */
+@media (max-width: 640px) {
+  .profile-photo-centered {
+    width: 260px;
+    height: 260px;
+  }
+}
+
+/* Logo-style contacts */
+.contact-icons {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.contact-icon img {
+  width: 50px;
+  height: 50px;
+}
+
+/* Optional: nice hover effect */
+.contact-icon img:hover {
+  transform: scale(1.05);
+}
+
+/* remove old list if not used anymore */
+.contact-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
