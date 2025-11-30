@@ -192,3 +192,21 @@ footer {
     height: 260px;
   }
 }
+
+/* CV section list */
+.cv-list {
+  margin: 0;
+  padding-left: 20px;
+  list-style: disc;
+}
+
+.cv-list li {
+  margin-bottom: 12px;
+  font-size: 0.95rem;   /* same as your homepage */
+  line-height: 1.55;
+}
+
+.cv-year {
+  color: #6b7280;       /* subtle gray */
+  font-size: 0.9rem;
+}

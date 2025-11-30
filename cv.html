@@ -8,61 +8,95 @@
 </head>
 
 <body>
-  <header class="site-header">
-    <div class="header-inner">
-      <div>
-        <h1 class="site-title">Your Name</h1>
-        <p class="site-tagline">Curriculum Vitae</p>
-      </div>
 
-      <nav class="nav-right">
+  <!-- HEADER -->
+  <header class="site-header">
+    <div class="header-centered">
+
+      <h1 class="site-title">Peerawat Pannattee</h1>
+      <p class="site-tagline">Postdoctoral Researcher | AI Enthusiast</p>
+
+      <nav class="nav-center">
         <a href="index.html" class="nav-link">Home</a>
         <a href="cv.html" class="nav-link active">CV</a>
       </nav>
+
     </div>
   </header>
 
+  <!-- MAIN CONTENT -->
   <main class="main-container">
 
+    <!-- EDUCATION -->
     <section>
       <h2>Education</h2>
-      <ul>
-        <li><strong>Year – Year</strong> — Your degree / University</li>
-        <li><strong>Year – Year</strong> — Another degree</li>
+
+      <ul class="cv-list">
+        <li>
+          <strong>Ph.D., Computer Science</strong><br />
+          Tokyo Metropolitan University, Japan  
+          <span class="cv-year">(2025)</span>
+        </li>
+
+        <li>
+          <strong>M.Eng., Electrical Engineering</strong><br />
+          KMUTT, Thailand  
+          <span class="cv-year">(2022)</span>
+        </li>
+        
+        <li>
+          <strong>B.Eng., Electrical Communication & Electronic Engineering</strong><br />
+          KMUTT, Thailand  
+          <span class="cv-year">(2019)</span>
+        </li>
       </ul>
     </section>
 
+    <!-- POSITIONS / EXPERIENCE -->
     <section>
-      <h2>Experience</h2>
-      <ul>
-        <li><strong>Year – Year</strong> — Position, Organization</li>
+      <h2>Research Experience</h2>
+
+      <ul class="cv-list">
+        <li>
+          <strong>Postdoctoral Researcher</strong>, RIKEN Center for Brain Science  
+          <span class="cv-year">(2025–Present)</span><br />
+          ◦ Focus on segmentation of axonal tracer signals in whole-brain marmoset microscopy images.
+        </li>
+
+        <li>
+          <strong>Ph.D. Student</strong>, Tokyo Metropolitan University  
+          <span class="cv-year">(2022–2025)</span><br />
+          ◦ Developed deep learning methods for automatic VR user experience assessment using behavioral cues from body motion and facial expressions.
+        </li>
+
+        <li>
+          <strong>Research Assistant & M.Eng. Student</strong>, KMUTT  
+          <span class="cv-year">(2019–2022)</span><br />
+          ◦ Developed deep learning approaches for continuous fingerspelling recognition in dynamic, in-the-wild video environments.
+        </li>
       </ul>
     </section>
 
-    <section>
-      <h2>Skills</h2>
-      <ul>
-        <li>Programming: HTML, CSS, JavaScript, Python, etc.</li>
-        <li>Tools: GitHub, VS Code, Linux, etc.</li>
-      </ul>
-    </section>
-
+    <!-- CONTACT -->
     <section>
       <h2>Contact</h2>
-      <ul>
-        <li>Email: <a href="mailto:you@example.com">you@example.com</a></li>
-        <li>GitHub: <a href="#">github.com/your-username</a></li>
-      </ul>
+      <ul class="contact-list">
+        <li>
+          <span class="contact-label">Email:</span>
+          <a href="mailto:peerawat.pannattee@riken.jp">peerawat.pannattee@riken.jp</a>
+        </li>
     </section>
 
   </main>
 
+  <!-- FOOTER -->
   <footer>
-    © <span id="year"></span> Your Name
+    © <span id="year"></span> Peerawat Pannattee
   </footer>
 
   <script>
     document.getElementById("year").textContent = new Date().getFullYear();
   </script>
+
 </body>
 </html>
