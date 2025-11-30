@@ -112,7 +112,7 @@ section h2 {
 
 /* Intro paragraphs */
 .intro-indent {
-  text-align: left;
+  text-align: justify;
   margin: 0 0 14px 0;
   padding: 0;
   width: 100%;
